@@ -30,5 +30,5 @@ def printer
     puts assignment
   end
   final_answer = print_badges.concat(print_rooms)
-  final answer
+  puts final_answer
 end
