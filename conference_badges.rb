@@ -29,5 +29,6 @@ def printer
   print_rooms.each do |assignment|
     puts assignment
   end
-  print_badges.concat(print_rooms)
+  final_answer = print_badges.concat(print_rooms)
+  final answer
 end
